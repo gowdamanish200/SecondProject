@@ -1,0 +1,15 @@
+{
+  "name": "Manish",
+  "role": "DevOps Engineer",
+  "skills": ["Linux", "Git", "Docker", "AWS"],
+  "experience": 2,
+  "active": true
+}
+
+{
+  "name": "Kishore",
+  "role": "DevOps Engineer",
+  "skills": ["Linux", "Git", "Docker", "AWS"],
+  "experience": 2,
+  "active": true
+}

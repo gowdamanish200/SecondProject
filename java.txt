@@ -1,0 +1,10 @@
+// Simple JavaScript Script
+
+console.log("Hello from JavaScript!");
+
+function greetUser() {
+    const name = prompt("Enter your name:");
+    alert("Hello, " + name + "!");
+}
+
+greetUser();
